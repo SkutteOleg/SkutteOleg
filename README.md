@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Oleg Skutte
 
-<!--
-**SkutteOleg/SkutteOleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a solo game developer.
 
-Here are some ideas to get you started:
+## 🎮 My Games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [DREAMIO: AI-Powered Adventures](https://store.steampowered.com/app/2795060/DREAMIO_AIPowered_Adventures/)
+- [Drunken Wrestlers 2](https://store.steampowered.com/app/667530/)
+- [LOCOMOTORICA: Staggering Ragdoll](https://store.steampowered.com/app/1542630/)
+- [Drunken Wrestlers](https://store.steampowered.com/app/1188720/)
+
+## 🔗 Links
+
+- [Discord](https://discord.gg/ZmWvM49cd6)
+- [YouTube](https://youtube.com/OlegSkutte)
+- [Patreon](https://patreon.com/OlegSkutte)
