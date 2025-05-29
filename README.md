@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oleg Skutte
 
-I'm a solo game developer.
+I'm a generalist solo game developer.
 
 ## 🎮 My Games
 
